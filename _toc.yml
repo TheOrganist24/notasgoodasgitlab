@@ -1,7 +1,8 @@
-- file: demo1/testing_stuff
+- file: README
   numbered: true
   
 - part: Part 1. Markdown
   chapters:
+  - file: demo1/testing_stuff
   - file: demo2/testing_stuff
   - file: demo3/testing_stuff
